@@ -1,0 +1,10 @@
+{
+  "title": "Bibliotheca Docs",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "BibliothecaForAdventurers",
+  "twitter": "@lootgraph"
+}
