@@ -22,6 +22,7 @@ category: Raiding
   - RPC URL: https://rinkeby.arbitrum.io/rpc
   - ChainID: 421611
   - Symbol: ETH
+  - Block Explorer URL: https://testnet.arbiscan.io/#/
 
 ## Bridging Rinkeby Eth to Arbitrum
 
