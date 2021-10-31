@@ -9,8 +9,8 @@ category: Raiding
 
 1. Head to the [Rinkeby Eth Faucet](https://faucet.rinkeby.io/)
 2. Post your wallet address on:
- - To request funds via Twitter, make a tweet with your Ethereum address pasted into the contents (surrounding text doesn't matter). 
- - To request funds via Facebook, publish a new public post with your Ethereum address embedded into the content (surrounding text doesn't matter).
+  - To request funds via Twitter, make a tweet with your Ethereum address pasted into the contents (surrounding text doesn't matter). 
+  - To request funds via Facebook, publish a new public post with your Ethereum address embedded into the content (surrounding text doesn't matter).
 3. Copy-paste the post/tweet's URL into the above input box and fire away! (3 Ethers will be more than enough)
 4. You can now delete your social post
 
@@ -18,10 +18,11 @@ category: Raiding
 
 1. Sign in to your Metamask wallet
 2. Add the Arbitrum testnet by clicking on the top right dropdown and selecting ‘Custom RPC’ and Create the custom testnet by providing the Arbitrum Testnet details:
- - Network Name: Arbitrum Testnet
- - RPC URL: https://rinkeby.arbitrum.io/rpc
- - ChainID: 421611
- - Symbol: ETH
+  - Network Name: Arbitrum Testnet
+  - RPC URL: https://rinkeby.arbitrum.io/rpc
+  - ChainID: 421611
+  - Symbol: ETH
+  - Block Explorer URL: https://testnet.arbiscan.io/#/
 
 ## Bridging Rinkeby Eth to Arbitrum
 
@@ -58,8 +59,8 @@ category: Raiding
 
 1. Navigate to your Empire on [Bibliothecaforloot.com](https://staking-beta.bibliothecaforloot.com/)
 2. Once your Realms have at least 1 day of unclaimed resources, either:
- - Click ‘Claim All Your Resources’ to claim all your Realms in one transaction
- - Click ‘Claim’ per Realm to claim individually
+  - Click ‘Claim All Your Resources’ to claim all your Realms in one transaction
+  - Click ‘Claim’ per Realm to claim individually
 3. Once your Realms have been settled for an entire Age, click ‘Claim All Lords’ to receive your share of that Age’s $LORDS distribution
 
 ## Upgrading resource production
@@ -81,7 +82,7 @@ category: Raiding
 
 1. Navigate to ‘Settled Realms’ on [Bibliothecaforloot.com](https://staking-beta.bibliothecaforloot.com/)
 2. Select the Realm you would like to Raid 
- - Use filters to target Realms with your desired resources
+  - Use filters to target Realms with your desired resources
 3. Select your Realm you’d like to attack with
 4. Click ‘Raid’
 5. You will be notified of the outcome within a minute
