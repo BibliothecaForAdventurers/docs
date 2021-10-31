@@ -18,10 +18,10 @@ category: Raiding
 
 1. Sign in to your Metamask wallet
 2. Add the Arbitrum testnet by clicking on the top right dropdown and selecting ‘Custom RPC’ and Create the custom testnet by providing the Arbitrum Testnet details:
- - Network Name: Arbitrum Testnet
- - RPC URL: https://rinkeby.arbitrum.io/rpc
- - ChainID: 421611
- - Symbol: ETH
+  - Network Name: Arbitrum Testnet
+  - RPC URL: https://rinkeby.arbitrum.io/rpc
+  - ChainID: 421611
+  - Symbol: ETH
 
 ## Bridging Rinkeby Eth to Arbitrum
 
@@ -58,8 +58,8 @@ category: Raiding
 
 1. Navigate to your Empire on [Bibliothecaforloot.com](https://staking-beta.bibliothecaforloot.com/)
 2. Once your Realms have at least 1 day of unclaimed resources, either:
- - Click ‘Claim All Your Resources’ to claim all your Realms in one transaction
- - Click ‘Claim’ per Realm to claim individually
+  - Click ‘Claim All Your Resources’ to claim all your Realms in one transaction
+  - Click ‘Claim’ per Realm to claim individually
 3. Once your Realms have been settled for an entire Age, click ‘Claim All Lords’ to receive your share of that Age’s $LORDS distribution
 
 ## Upgrading resource production
@@ -81,7 +81,7 @@ category: Raiding
 
 1. Navigate to ‘Settled Realms’ on [Bibliothecaforloot.com](https://staking-beta.bibliothecaforloot.com/)
 2. Select the Realm you would like to Raid 
- - Use filters to target Realms with your desired resources
+  - Use filters to target Realms with your desired resources
 3. Select your Realm you’d like to attack with
 4. Click ‘Raid’
 5. You will be notified of the outcome within a minute
