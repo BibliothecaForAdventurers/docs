@@ -8,11 +8,12 @@ category: Alpha
 ## Getting Rinkeby Eth
 
 1. Head to the [Rinkeby Eth Faucet](https://faucet.rinkeby.io/)
-2. Post your wallet address on:
+2. Create a fresh wallet
+3. Post your wallet address on:
   - To request funds via Twitter, make a tweet with your Ethereum address pasted into the contents (surrounding text doesn't matter). 
   - To request funds via Facebook, publish a new public post with your Ethereum address embedded into the content (surrounding text doesn't matter).
-3. Copy-paste the post/tweet's URL into the above input box and fire away! (3 Ethers will be more than enough)
-4. You can now delete your social post
+4. Copy-paste the post/tweet's URL into the above input box and fire away! (3 Ethers will be more than enough)
+5. You can now delete your social post
 
 ## Setting up Arbitrum Testnet
 
