@@ -47,11 +47,12 @@ category: Alpha
 3. Select a Realm to bridge
 4. Click ‘Bridge to Arbitrum’
 5. Repeat for all Realms (you don’t have to wait for each bridging to complete)
+6. Your Realms will appear in the 'Realms Available To Settle' in about 5 minutes
 
 ## Settling Realms
 
 1. Navigate to your Empire on [Bibliothecaforloot.com](https://staking-beta.bibliothecaforloot.com/)
-2. Select ‘Realm Settling’
+2. Select ‘Realms Available To Settle’
 3. Click ‘Settle’ for each Realm
 4. They will now appear in your ‘Empire’ tab
 
