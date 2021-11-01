@@ -91,13 +91,13 @@ category: Alpha
 
 ## Building mechanics
 
-**1.Military**
+**1. Military**
 
 ![Military build mechanics](https://user-images.githubusercontent.com/91049656/139660252-df0f21d5-121a-4e85-b0ac-885efe0b432e.png)
 
-**2.Buildings**
+**2. Buildings**
 
 ![Building mechanics](https://user-images.githubusercontent.com/91049656/139660526-007171d7-a246-4725-a063-57c7fcc75985.png)
 
-**3.Happiness rating**
+**3. Happiness rating**
 
