@@ -2,7 +2,7 @@
 title: Alpha Docs
 description: ''
 position: 1
-category: Raiding
+category: Alpha
 ---
 
 ## Getting Rinkeby Eth
