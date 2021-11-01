@@ -2,17 +2,18 @@
 title: Alpha Docs
 description: ''
 position: 1
-category: Raiding
+category: Alpha
 ---
 
 ## Getting Rinkeby Eth
 
 1. Head to the [Rinkeby Eth Faucet](https://faucet.rinkeby.io/)
-2. Post your wallet address on:
+2. Create a fresh wallet
+3. Post your wallet address on:
   - To request funds via Twitter, make a tweet with your Ethereum address pasted into the contents (surrounding text doesn't matter). 
   - To request funds via Facebook, publish a new public post with your Ethereum address embedded into the content (surrounding text doesn't matter).
-3. Copy-paste the post/tweet's URL into the above input box and fire away! (3 Ethers will be more than enough)
-4. You can now delete your social post
+4. Copy-paste the post/tweet's URL into the above input box and fire away! (3 Ethers will be more than enough)
+5. You can now delete your social post
 
 ## Setting up Arbitrum Testnet
 
@@ -47,11 +48,12 @@ category: Raiding
 3. Select a Realm to bridge
 4. Click ‘Bridge to Arbitrum’
 5. Repeat for all Realms (you don’t have to wait for each bridging to complete)
+6. Your Realms will appear in the 'Realms Available To Settle' in about 5 minutes
 
 ## Settling Realms
 
 1. Navigate to your Empire on [Bibliothecaforloot.com](https://staking-beta.bibliothecaforloot.com/)
-2. Select ‘Realm Settling’
+2. Select ‘Realms Available To Settle’
 3. Click ‘Settle’ for each Realm
 4. They will now appear in your ‘Empire’ tab
 
