@@ -1,7 +1,7 @@
 ---
 title: Alpha Docs
 description: ''
-position: 1
+position: 8
 category: Alpha
 ---
 
