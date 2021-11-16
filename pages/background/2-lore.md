@@ -2,7 +2,7 @@
 title: Code is Lore
 description: ''
 position: 2
-category: 'Background'
+category: Background
 ---
 
 ### Code is Canon
@@ -11,4 +11,5 @@ category: 'Background'
 
 ## Code driven Lore
 
-Projects that have spawned around Loot.
+Blockchain data is the source of Lore within the Lootverse. This is the truth that all stories are built off.
+

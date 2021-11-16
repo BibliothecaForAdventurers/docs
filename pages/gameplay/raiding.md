@@ -1,10 +1,10 @@
 ---
-title: 'Raiding'
-description: 'Raid and Pillage your enemies.'
+title: Raiding
+description: Raid and Pillage your enemies.
 position: 3
-category: 'gameplay'
+category: gameplay
 fullscreen: true
-menuTitle: 'Gameplay'
+menuTitle: Gameplay
 ---
 
 ## Realms Raiding

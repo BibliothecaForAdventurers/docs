@@ -1,14 +1,15 @@
 ---
 title: Settling of the Realms
-description: 'Settling of the Realms is an open source MMOCG (Massively Multiplayer On-Chain Game) of economics and Chivalry built on-top of ZK STARKS.'
+description: >-
+  Settling of the Realms is an open source MMOCCG (Massively Multiplayer On-Chain
+  Game) of economics and Chivalry built on-top of ZK STARKS.
 position: 1
-category: 'Getting Started'
-
+category: Getting Started
 ---
 
 # What is the Game
 
-Settling is an open source MMOCG (Massively Multiplayer On-Chain Game) of economics and Chivalry built on-top of ZK STARKS. The goal of the game is to build up your Realm, form alliances and harvest resources. If you do not maintain and defend your realm, you will be raided and your resources lost. If you disregard your Realm it’s value will decay.
+Settling is an open source MMOCCG (Massively Multiplayer On-Chain Composable Game) of economics and Chivalry built on-top of ZK STARKS. The goal of the game is to build up your Realm, form alliances and harvest resources. If you do not maintain and defend your realm, you will be raided and your resources lost. If you disregard your Realm it’s value will decay.
 
 <hr>
 

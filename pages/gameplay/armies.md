@@ -1,12 +1,16 @@
 ---
-title: 'Armies'
-description: 'Your Knights in Shining Armor.'
+title: Armies
+description: Your Knights in Shining Armor.
 position: 3
-category: 'gameplay'
+category: gameplay
 fullscreen: true
-menuTitle: 'Gameplay'
+menuTitle: Gameplay
 ---
 
-## Building an Army
+## What is an Army?
 
-Once you have built an Army.
+Armies are your defence and offence in the Realmverse. They can be trained once you have built a sufficient amount of Castles. 
+
+### Building an Army
+
+### Unit Statistics 

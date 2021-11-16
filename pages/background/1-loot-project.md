@@ -1,11 +1,11 @@
 ---
-title: 'Loot Project'
-description: 'The Loot project started it all.'
+title: Loot Project
+description: The Loot project started it all.
 position: 1
-category: 'Background'
+category: Background
 version: 1.4
 fullscreen: false
-menuTitle: 'Loot Project'
+menuTitle: Loot Project
 ---
 
 
