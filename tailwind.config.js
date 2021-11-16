@@ -3,7 +3,7 @@ module.exports = {
     extend: {
       fontFamily: {
         display: ['EB Garamond', 'serif'],
-        body: ['EB Garamond', 'serif'],
+        body: ['Inconsolata', 'monospace'],
       },
       colors: {
         primary: {
