@@ -1,7 +1,8 @@
 {
-  "name": "bibliotheca-docs",
+  "name": "@nuxtjs/strapi-docs",
   "version": "1.0.0",
-  "private": true,
+  "description": "Docs for @nuxtjs/strapi",
+  "author": "NuxtJS",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -9,7 +10,10 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxt/content-theme-docs": "^0.11.0",
-    "nuxt": "^2.15.8"
+    "docus": "^0.5.14",
+    "nuxt": "^2.15.6"
+  },
+  "devDependencies": {
+    "vue-plausible": "^1.1.4"
   }
 }
