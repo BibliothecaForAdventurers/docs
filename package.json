@@ -1,8 +1,8 @@
 {
-  "name": "@nuxtjs/strapi-docs",
+  "name": "Bibliotheca Docs",
   "version": "1.0.0",
-  "description": "Docs for @nuxtjs/strapi",
-  "author": "NuxtJS",
+  "description": "Docs for Bibliotheca",
+  "author": "LordOfAFew",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

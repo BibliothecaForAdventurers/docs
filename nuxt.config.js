@@ -6,6 +6,6 @@ export default withDocus({
     'vue-plausible'
   ],
   plausible: {
-    domain: 'strapi.nuxtjs.org'
+    domain: 'bibliothecaforloot.com'
   }
 })

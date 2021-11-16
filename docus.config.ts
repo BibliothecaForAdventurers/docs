@@ -1,5 +1,5 @@
 export default {
-  title: 'Settling',
+  title: 'Settling of the Realms',
   url: 'https://bibliothecaforloot.com',
   theme: {
     colors: {

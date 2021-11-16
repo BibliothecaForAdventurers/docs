@@ -1,6 +1,6 @@
 ---
 title: 'Realms'
-description: 'Empower your NuxtJS application with this awesome module.'
+description: 'Realms'
 position: 2
 category: 'realms'
 fullscreen: true
