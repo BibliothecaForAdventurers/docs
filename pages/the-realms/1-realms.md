@@ -1,8 +1,7 @@
 ---
-title: 'Raiding'
+title: 'Realms'
 description: 'Empower your NuxtJS application with this awesome module.'
-position: 3
-category: 'gameplay'
+position: 2
+category: 'realms'
 fullscreen: true
-menuTitle: 'Gameplay'
 ---

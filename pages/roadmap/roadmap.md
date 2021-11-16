@@ -1,8 +1,8 @@
 ---
-title: 'Raiding'
+title: 'Roadmap'
 description: 'Empower your NuxtJS application with this awesome module.'
-position: 3
-category: 'gameplay'
+position: 5
+category: 'roadmap'
 fullscreen: true
 menuTitle: 'Gameplay'
 ---
