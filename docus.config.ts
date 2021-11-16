@@ -9,16 +9,12 @@ export default {
       }
     },
     header: {
-      title: false,
-      logo: {
-        light: '/logo-light.svg',
-        dark: '/logo-dark.svg'
-      }
+      title: 'Realms + Bibliotheca'
     }
   },
-  twitter: '@nuxt_js',
+  twitter: '@lootrealms',
   github: {
-    repo: 'nuxt-community/strapi-module',
+    repo: 'BibliothecaForAdventurers',
     branch: 'main',
     releases: true
   }
