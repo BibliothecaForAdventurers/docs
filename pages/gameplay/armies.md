@@ -1,12 +1,12 @@
 ---
-title: 'Raiding'
-description: 'Raid and Pillage your enemies.'
+title: 'Armies'
+description: 'Your Knights in Shining Armor.'
 position: 3
 category: 'gameplay'
 fullscreen: true
 menuTitle: 'Gameplay'
 ---
 
-## Realms Raiding
+## Building an Army
 
 Once you have built an Army.

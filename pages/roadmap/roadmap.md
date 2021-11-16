@@ -1,8 +1,10 @@
 ---
 title: 'Roadmap'
-description: 'Empower your NuxtJS application with this awesome module.'
+description: 'The Realms Settling Roadmap'
 position: 5
 category: 'roadmap'
 fullscreen: true
-menuTitle: 'Gameplay'
 ---
+
+
+## The is an estimation only

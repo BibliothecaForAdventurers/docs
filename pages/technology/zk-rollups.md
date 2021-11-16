@@ -1,6 +1,6 @@
 ---
 title: 'ZK-Rollups'
-description: 'Empower your NuxtJS application with this awesome module.'
+description: 'Next generation L2 rollup powering GameFi.'
 position: 6
 category: 'technology'
 fullscreen: true
