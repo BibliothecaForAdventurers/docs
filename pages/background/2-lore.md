@@ -13,3 +13,4 @@ category: Background
 
 Blockchain data is the source of Lore within the Lootverse. This is the truth that all stories are built off.
 
+Loot is an idea. If you would like to contribute, join the community and dive in.

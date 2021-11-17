@@ -1,6 +1,6 @@
 ---
-title: Raiding
-description: Raid and Pillage your enemies.
+title: Wars
+description: All about Wars
 position: 3
 category: gameplay
 fullscreen: true

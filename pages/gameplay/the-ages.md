@@ -1,6 +1,6 @@
 ---
-title: Raiding
-description: Raid and Pillage your enemies.
+title: The Ages
+description: The gameplay of the Ages
 position: 3
 category: gameplay
 fullscreen: true
