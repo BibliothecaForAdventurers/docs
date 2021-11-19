@@ -7,7 +7,7 @@ fullscreen: true
 menuTitle: Gameplay
 ---
 
-## What is a Raid
+## What are wars
 
 The 16 Orders allow these battles to grow into immense wars. The Order Of The Titans may declare war on The Order Of Rage over a defined bounty and may decide that 16 Realms from each Order must join for the epic war to break out.
 
