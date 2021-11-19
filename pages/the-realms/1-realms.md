@@ -19,8 +19,7 @@ Each of the 8,000 Realms is a procedurally generated map with the following uniq
 
 These foundations (along with including fantastic pieces of generative art) provide some strong mechanisms for Bibliotheca to provide the Realm Lords & Ladies with on-chain utility, such as resource generation and housing fungible primitives allowing for economic games.
 
-![image](https://user-images.githubusercontent.com/91049656/142606808-e6a450b9-5988-4244-9728-0b5cebd1796f.png)
-
+![image](https://user-images.githubusercontent.com/91049656/142607553-d89f012a-8347-43ba-b0e4-594a60f234e1.png)
 
 ## What can I do with a Realm?
 
