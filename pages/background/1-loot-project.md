@@ -12,7 +12,7 @@ menuTitle: Loot Project
 ## What is Loot?
 The NFT game changed forever when Loot dropped on the 27th of August. Loot is the first NFT project of its kind and was created by VINE co-creator Dom Hofmann.
 
-![Loot bag!](https://miro.medium.com/max/1297/1*dMsGNG2S1fWidESf5oA8Sw.png "Loot bag")
+<img class="w-full" href="https://miro.medium.com/max/1297/1*dMsGNG2S1fWidESf5oA8Sw.png">
 
 
 So what is Loot? Each loot bag contains 8 items: a piece for an adventurer’s chest, foot, hand, head, neck, ring, waist, and weapon. By itself it’s nothing, but add derivatives and it equals breakthrough economic incentive.
