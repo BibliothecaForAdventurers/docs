@@ -11,7 +11,7 @@ category: Background
 An MMOCCG is a Massivley Multiplayer On-Chain Composable Game. Let's upack this one by one.
 
 ### Massively multiplayer
-Games are no fun with smalls amounts of people. The reason for World of Warcrafts success is it's massive amount of players. Each player added brings value and fun for the other players around them. This is an extremly powerful network effect.
+Games are no fun with small amounts of people. The reason for World of Warcrafts success is it's massive amount of players. Each player added brings value and fun for the other players around them. This is an extremly powerful network effect.
 
 [insert image]
 
@@ -23,11 +23,11 @@ The company has total control over this information. If they decide they want to
 
 > The entire gameplay of Settling will be recorded on the blockchain and live permanently within it.
 
-This is a new paradigm of ownership over your data. You will be in total control of your game assets. If you wish to leave the game, you will be able to the work you have done to another player and leave with your liquidity.
+This is a new paradigm of ownership over your data. You will be in total control of your game assets. If you wish to leave the game, you will be able to sell or transfer the work you have done to another player and leave with your liquidity.
 
 
 ### Composable
-Imagine a world where websites could not link to each other? The internet would be a very boring place. Luckily, this is to true, and you can link (compose) websites together to create more value than what the individual website can bring. This is composability. 
+Imagine a world where websites could not link to each other? The internet would be a very boring place. Luckily, this is not true, and you can link (compose) websites together to create more value than what the individual website can bring. This is composability. 
 
 Within current games there is minimal, if any composability, because they are all running of different companies servers.
 
