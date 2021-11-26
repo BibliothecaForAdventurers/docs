@@ -1,6 +1,8 @@
 ## Resource Upgrade Path Table
 How much does it cost to upgrade a resource? First, find the resource that you want to upgrade in the far left column. The numbers in that row show how much of each resource you'll need for the upgrade.  
 
+#### NOTE: The values in the table below are subject to change
+
 |                      | 1-Wood | 3-Stone | 2-Coal | 13-Copper | 4-Obsidian | 6-Silver | 14-Ironwood | 11-Cold Iron | 5-Gold | 16-Hartwood | 12-Diamonds | 8-Sapphire | 21-Deep Crystal | 7-Ruby | 17-Ignium | 18-Ethereal Silica | 19-True Ice | 15-Twilight Quartz | 20-Alchemical Silver | 9-Adamantine | 10-Mithral | 22-Dragonhide |
 |----------------------|--------|---------|--------|-----------|------------|----------|-------------|--------------|--------|-------------|-------------|------------|-----------------|--------|-----------|--------------------|-------------|--------------------|----------------------|--------------|------------|---------------|
 | 1-Wood               | 0      | 164     | 160    | 115       | 0          | 0        | 54          | 0            | 0      | 28          | 0           | 0          | 0               | 0      | 0         | 0                  | 0           | 0                  | 0                    | 0            | 0          | 0             |
