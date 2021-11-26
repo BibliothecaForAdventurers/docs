@@ -2,6 +2,8 @@
 
 This table shows the economic and military impact of each building type. It also shows the resource requirement to build each type of building. For example, building a shipyard will add 100 to a realm's military offence, 200 to military defence, but will increase food consumption by 2 units. To build the shipyard, you'll need 200 wood, 200 silver, 200 ironwood, 200 hartwood. Also, note that a the number of shipyards is constrained by the number of harbours. So if your realm has 11 harbors, you can only build 11 shipyards. 
 
+#### NOTE: The values in the table below are subject to change
+
 
 | Building Type   | Constraint         | Type      | Offence | Defence | Magic | Population | Food | 1-Wood | 3-Stone | 2-Coal | 13-Copper | 4-Obsidian | 6-Silver | 14-Ironwood | 12-Cold Iron | 5-Gold | 16-Hartwood | 12-Diamonds | 8-Sapphire | 21-Deep Crystal | 7-Ruby | 17-Ignium | 18-Ethereal Silica | 19-True Ice | 15-Twilight Quartz | 20-Alchemical Silver | 9-Adamantine | 10-Mithral | 22-Dragonhide |
 |-----------------|--------------------|-----------|---------|---------|-------|------------|------|--------|---------|--------|-----------|------------|----------|-------------|--------------|--------|-------------|-------------|------------|-----------------|--------|-----------|--------------------|-------------|--------------------|----------------------|--------------|------------|---------------|
