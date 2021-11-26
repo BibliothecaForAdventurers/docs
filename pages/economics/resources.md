@@ -10,7 +10,7 @@ Any successful economy requires thriving production & trade to ensure resources 
 The 22 different possible resources on a Realm are ERC1155 tokens - which allow for cheaper bulk transfers (e.g when purchasing something with multiple resources in a single transaction).
 
 ## Production
-After settling your Realm, it will begin to produce resources for you straight away, depending on which of the 22 resources the Realm contains. 
+After settling your Realm, it will begin to produce resources for you straight away, depending on which of the [22 resources](resource-list.md) the Realm contains. 
 Each resource starts off producing resources at the same rate, but the generation rate can be increased by constructing [Resource Upgrades](upgrade_path_table.md) on each (e.g building a Level 2 Dragon Hunting lodge to increase your Dragonhide production).
 
 These upgrades will cost various resources - with rarer resources costing relatively more to construct than less rare resources such as wood and coal.
