@@ -10,8 +10,8 @@ Any successful economy requires thriving production & trade to ensure resources 
 The 22 different possible resources on a Realm are ERC1155 tokens - which allow for cheaper bulk transfers (e.g when purchasing something with multiple resources in a single transaction).
 
 ## Production
-After settling your Realm, it will begin to produce resources for you straight away, depending on which of the 22 resources the Realm contains. 
-Each resource starts off producing resources at the same rate, but the generation rate can be increased by constructing Resource Upgrades on each (e.g building a Level 2 Dragon Hunting lodge to increase your Dragonhide production.
+After settling your Realm, it will begin to produce resources for you straight away, depending on which of the [22 resources](resource-list.md) the Realm contains. 
+Each resource starts off producing resources at the same rate, but the generation rate can be increased by constructing [Resource Upgrades](upgrade_path_table.md) on each (e.g building a Level 2 Dragon Hunting lodge to increase your Dragonhide production).
 
 These upgrades will cost various resources - with rarer resources costing relatively more to construct than less rare resources such as wood and coal.
 Each upgrade will cost progressively more than the previous, and will increase total production output by a lower amount.
@@ -19,7 +19,11 @@ Each upgrade will cost progressively more than the previous, and will increase t
 ### Happiness
 Total resource production is also impacted by the Happiness statistic of the Realm. 
 Initially, this will be dependant on the buildings that are constructed on the Realm, which are limited by the number of traits (Cities, Regions, Harbors & Rivers). 
-Various building types impact a Realms defence, population, food supply and army building capabilities, with trade-offs to be made for each. A Castle (requiring 1 Region to build) may increase defence and army capabilites - but needs adequate food supply (for example by building a Farm on a city), otherwise the Realm's happiness will falll and production will decrease.
+Various [building types](building_cost.md) impact a Realms defence, population, food supply and army building capabilities, with trade-offs to be made for each. A Castle (requiring 1 Region to build) may increase defence and army capabilites - but needs adequate food supply (for example by building a Farm on a city), otherwise the Realm's happiness will falll and production will decrease.
+
+## Military Spending
+As realms mature and resources accure, more advanced buildings may be constructed, enhancing the realms economic and military power. These building then unlock opportunities for building [military units and weapons](military_costs.md).
+
 
 ## Trade
 Lords and other adventurers are able to trade with each other and provide liquidity to earn fees using the Realms Merchant Trade Routes.
