@@ -38,6 +38,5 @@ The Resources AMM provides the vital functionality for Adventurers to be able to
 ### PvP Contracts (Q2 2022)
 Fight your way to resource supremacy by raiding other adventurers' Realms, and participate in other creative PvP experiences using Loot derivatives
 
-BEYOND
-### The Realmverse economy
+### The Realmverse economy (BEYOND)
 With a thriving ecosytem on StarkNet, more features and composablity across apps will emerge. Community involvement will guide this. We envision 1m+ players all working together building a functioning on-chain economy.
