@@ -16,32 +16,26 @@ items:
 ### Design philosophy and process
 Early development is steered by the Bibliotheca & Realms Team - but will be transitioned into DAO guidance in the future. Major functionality will be deployed on the Rinkeby testnet for the Adventurer community to test and give feedback before mainnet deployment.
 
-DECEMBER 2021
-### StarkNet Bridge & Staking
+### StarkNet Bridge & Staking (DECEMBER 2021)
 The journey commences with a bridge to the Layer 2 network - StarkNet. To reward early Realm Lords, a joint Staking contract is being built where Lords can earn. Once StarkNet is live, the Realms will be automatically available to redeem on StarkNet. You will then be able to trade freely between l1 and l2.
 
-EARLY Q2 2022
-### Minigame on StarkNet Alpha
+### Minigame on StarkNet Alpha (EARLY Q2 2022)
 Minigame on StarkNet Alpha will be released. This will be an entirely on-chain experience and will require Lords to play. This game will be similar to Capture the Flag.
 
-Q2 2022
-### StarkNet Bridge
+### StarkNet Bridge (Q2 2022)
+
 A complete bridge to StarkNet is being built. This will allow players to transfer their Realms back and forth between l1 and l2.
 
-Q2 2022
-### Trading Plaza on StarkNet - NFT Marketplace using $LORDS
+### Trading Plaza on StarkNet - NFT Marketplace using $LORDS (Q2 2022)
 A StarkNet native NFT marketplace denominated in $LORDS is being designed and built. All trades on this marketplace will use LORDS as the currency. A % of the transactions fees will funnel directly into the Bibliotheca DAO.
 
-Q2 2022
-### Settling on StarkNet - Stake your Realms and Earn LORDS and resources.
+### Settling on StarkNet - Stake your Realms and Earn LORDS and resources (Q2 2022)
 Players will be able to Settle their StarkNet Realms and begin to earn resources and $LORDS.
 
-Q2 2022
-### Resources Automated Market Maker
+### Resources Automated Market Maker (Q2 2022)
 The Resources AMM provides the vital functionality for Adventurers to be able to trade for missing materials for upgrades - such as Wood, Diamonds and Dragonhide
 
-Q2 2022
-### PvP Contracts
+### PvP Contracts (Q2 2022)
 Fight your way to resource supremacy by raiding other adventurers' Realms, and participate in other creative PvP experiences using Loot derivatives
 
 BEYOND
