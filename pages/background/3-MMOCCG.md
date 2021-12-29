@@ -8,10 +8,10 @@ category: Background
 
 ## What is a MMOCCG?
 
-An MMOCCG is a Massivley Multiplayer On-Chain Composable Game. Let's upack this one by one.
+An MMOCCG is a Massively Multiplayer On-Chain Composable Game. Let's upack this one by one.
 
 ### Massively multiplayer
-Games are no fun with small amounts of people. The reason for World of Warcrafts success is it's massive amount of players. Each player added brings value and fun for the other players around them. This is an extremly powerful network effect.
+Games are no fun with small amounts of people. The reason for World of Warcrafts success is it's massive amount of players. Each player added brings value and fun for the other players around them. This is an extremely powerful network effect.
 
 [insert image]
 
