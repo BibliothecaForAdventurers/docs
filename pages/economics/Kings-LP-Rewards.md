@@ -1,4 +1,4 @@
- ---
+---
 title: Kings' LP Rewards
 description: ''
 position: 4
