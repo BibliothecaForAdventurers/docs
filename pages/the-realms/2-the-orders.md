@@ -31,9 +31,9 @@ There are 16 Orders that were discovered deep in the data and contracts of Loot,
 
 ## What do the Orders mean for gameplay?
 
-Currently the main feature of Orders is that Realms of the same Order can't attack/raid each other - they have an inherent alliance. 
+Currently, the main feature of Orders is that Realms of the same Order can't attack/raid each other - they have an inherent alliance. 
 
-They unlock the opportunity of wars. Realms from the same Order will be able to declare war on another Order, which will then commence once the enough Realms have pledged their allegiance. 
+They unlock the opportunity of wars. Realms from the same Order will be able to declare war on another Order, which will then commence once enough Realms have pledged their allegiance. 
 
 This also creates a new collaborative dynamic as Realm Lords/Ladies can work together to make their Order more collectively powerful.
 Advanced collaboration, such as the development alliances between orders and order-owned assets (wonders, Genesis Adventurers) would drive increasingly more complex storylines and gameplay strategy. 
