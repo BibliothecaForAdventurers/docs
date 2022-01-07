@@ -37,6 +37,10 @@ The team will be providing LP incentives on AMM.
 <br>
 
 **The Journey (1% first 10 weeks, 0.5% thereafter)** - Allocated to Realms that embark on the Journey (staking) to layer 2 in the process approved in the prior proposal at <a href="https://snapshot.org/#/bibliotheca.eth/proposal/0xd1cd38aa6fd44bc595aeb577232b31ce3dfde8db1c57df4f95ae5bf287b42ec3">Snapshot proposal </a>
-The rate (1% initially) will be allocated at a fixed rate per epoch (e.g 625 $LORDS per realm per week) - which would distribute the full amount proposed if all 8000 Realms are staked.
+The rate (1% initially) will be allocated at a fixed rate per epoch (e.g 625 $LORDS per realm per week) - which would distribute the full amount proposed if all 8000 Realms are staked. If the target of bridging to StarkNet takes longer than the proposed 10 weeks, the Journey will continue but with a 0.5% $LORDS distribution per epoch. 
+
+<br>
+
+**Game Emissions (57.5%)** - The 57.5% $LORDS is to be allocated to the Realms that are playing the Settling Game once launched. You will be required to Settle (stake) your StarkNet Realm in the game contract to be entitled to this. These emissions will follow a supply curve tied to the growth of the protocol. This was originally set at 2 years, however depending on the growth of the protocol this could take significantly longer to distribute. 
 
 <img class="w-full" src="/lords.png">
