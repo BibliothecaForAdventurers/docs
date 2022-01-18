@@ -7,8 +7,10 @@ category: Economics
 
 ## What is the $LORDS token?
 
-The $LORDS Token is a soon to be released ERC20 token that powers the Realmverse. 
-It will have a variety of uses, such as trading between resources in the Merchant Marketplace (an ERC-1155 Automated Market Maker or AMM),  earning fees for providing liquidity, and purchasing future in-game items. 
+The $LORDS Token is a ERC20 token that powers the Realmverse. 
+It will have a variety of uses, such as trading between resources in the Merchant Marketplace (an ERC-1155 Automated Market Maker or AMM), earning fees for providing liquidity, purchasing NFTs, and purchasing future in-game items. 
+
+The NFT Marketplace will be 100% denominated in $LORDS. A 5% commission from all transactions will flow into the DAO multisig address to be reinvested back into the protocol.
 
 ### What is the total supply?
 
@@ -18,7 +20,7 @@ There will be a hard cap of 500m $LORDS tokens as defined in the contract.
 
 Initially the token will be distributed to Realm stakers that take part in the Journey contract. Any Lord or Lady with a Realm can partake in this Journey.
 
-The hard cap of tokens distributed is expected to  be reached after 2 years, with exact rates will be published soon. Each Realm will receive the same amount of $LORDS - and is not impacted by features such as rarity, resources, traits or wonders.
+The hard cap of tokens distributed is expected to  be reached after 2-5 years, with exact rates will be published soon. Each Realm will receive the same amount of $LORDS - and is not impacted by features such as rarity, resources, traits or wonders. The inflation rate will be tied to the growth of the protocol.
 
 The team will be providing LP incentives on AMM.
 
