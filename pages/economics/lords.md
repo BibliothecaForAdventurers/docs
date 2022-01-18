@@ -5,6 +5,8 @@ position: 3
 category: Economics
 ---
 
+<img class="w-full" src="https://bibliothecadao.xyz/lords-icon.png">
+
 ## What is the $LORDS token?
 
 The $LORDS Token is a ERC20 token that powers the Realmverse. 
