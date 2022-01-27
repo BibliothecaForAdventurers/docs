@@ -7,7 +7,7 @@ category: Economics
  
 ## How to earn rewards 
 
-The pools' first epoch has a total reward of 10k LORDS per day, running from the 28th December 2021 until the 28th January 2022. 
+The pools' first epoch has a total reward of 10k LORDS per day, running from the 28th January 2022 until the 28th March 2022. 
 Rewards are distributed according to the share of the in-range liquidity pool (out of range positions will not accrue Lords).
 
 To earn the Kings' Rewards, you will first need to:
